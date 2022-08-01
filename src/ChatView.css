@@ -1,0 +1,14 @@
+.chat__view{
+    position: relative;
+}
+.chat__view>img{
+    cursor: pointer;
+}
+
+
+.chat__view__timer{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}
